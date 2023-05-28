@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 title                    : "the evening economies"
 title_separator          : "-"
 subtitle                 : "started in 2009 and still going" # site tagline that appears below site title in masthead
@@ -156,7 +156,7 @@ footer:
 include:
   - .htaccess
   - _pages
-#  - ["_pages"]
+  - ["_pages"]
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
