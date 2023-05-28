@@ -18,12 +18,3 @@ sidebar:
 ---
 
 discography of the label releases
-
-defaults:
-   _pages
-  - scope:
-      path: "/catalogue/"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
