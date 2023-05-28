@@ -1,42 +1,12 @@
-- title: Start
-  url: "/"
-  side: left
-
-- title: releases
-  url: "/releases/"
-  side: left
-
-- title: "artists"
-  url: "/design/"
-  side: left
-  dropdown:
-  - title: "spinsters"
-    url: "/design/spinsters/"
-  - title: "ghostbird"
-    url: "/design/ghostbird/"
-  - title: "total victory"
-    url: "/design/total-victory/"
-
-#- title: Documentation
-#  url: "/documentation/"
-#  side: left
-#  dropdown:
-#  - title: "Changelog"
-#    url: "/changelog/"
-#  - title: "Roadmap"
-#    url: "/roadmap/"
-
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-
-- title: "Search"
-  url: "/search/"
-  side: right
-
-- title: "Contact"
-  url: "/contact/"
-  side: right
+# main links
+main:
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
