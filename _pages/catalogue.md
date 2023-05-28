@@ -1,10 +1,10 @@
 ---
-title: "timeline"
-permalink: /timeline/
+title: "catalogue"
+permalink: /catalogue/
 excerpt_separator: "<!--more-->"
 categories:
   - discography
-  - timeline
+  - catalogue
 tags:
   - discography
 ---
@@ -12,9 +12,9 @@ tags:
 discography of the label releases
 
 defaults:
-  # _pages
+   _pages
   - scope:
-      path: "/timeline/"
+      path: "/catalogue/"
       type: pages
     values:
       layout: single

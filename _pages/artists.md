@@ -11,7 +11,7 @@ tags:
 artists on the label
 
 defaults:
-  # _pages
+   _pages
   - scope:
       path: "/artists/"
       type: pages
