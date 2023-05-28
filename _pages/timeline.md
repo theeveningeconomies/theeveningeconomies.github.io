@@ -10,3 +10,12 @@ tags:
 ---
 
 discography of the label releases
+
+defaults:
+  # _pages
+  - scope:
+      path: "/timeline/"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
