@@ -7,6 +7,14 @@ categories:
   - catalogue
 tags:
   - discography
+  
+sidebar:
+#  - title: "Title"
+    image: /assets/images/tee-image1.png
+    image_alt: "tee"
+#    text: "Some text here."
+#  - title: "Another Title"
+#    text: "More text here."
 ---
 
 discography of the label releases

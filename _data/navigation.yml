@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "timeline"
-    url: https://theeveningeconomies.github.io/timeline/
+  - title: "catalogue"
+    url: https://theeveningeconomies.github.io/catalogue/
   - title: "artists"
     url: https://theeveningeconomies.github.io/artists/
   # - title: "About"
@@ -12,3 +12,10 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+bands:
+  - title: "spinsters"
+    url: /pages/spinsters/
+  - title: "ghostbird"
+    url: /pages/ghostbird/
+  - title: "total victory"
+    url: /pages/total-victory/
