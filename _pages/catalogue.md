@@ -7,7 +7,6 @@ categories:
   - catalogue
 tags:
   - discography
-  
 sidebar:
 #  - title: "Title"
     image: /assets/images/tee-image1.png
