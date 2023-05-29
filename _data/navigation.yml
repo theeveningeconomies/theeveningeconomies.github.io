@@ -13,9 +13,11 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 bands:
-  - title: "spinsters"
-    url: /pages/spinsters/
-  - title: "ghostbird"
-    url: /ghostbird/
-  - title: "total victory"
-    url: /total-victory/
+  - title: artists
+  children:
+    - title: "spinsters"
+      url: /pages/spinsters/
+    - title: "ghostbird"
+      url: /ghostbird/
+    - title: "total victory"
+      url: /total-victory/

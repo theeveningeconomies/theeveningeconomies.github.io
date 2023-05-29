@@ -6,6 +6,7 @@ categories:
   - artists
 tags:
   - artists
+
 sidebar:
   nav: "bands"
 ---
