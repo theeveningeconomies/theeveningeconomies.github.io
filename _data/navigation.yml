@@ -14,11 +14,13 @@ main:
   #   url: /sitemap/
  
 bands:
-  - title: artists
-  children:
-    - title: "spinsters"
-      url: /spinsters/
-    - title: "ghostbird"
-      url: /ghostbird/
-    - title: "total victory"
-      url: /total-victory/
+  - title: Getting Started
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+      - title: "Structure"
+        url: /docs/structure/
+      - title: "Installation"
+        url: /docs/installation/
+      - title: "Upgrading"
+        url: /docs/upgrading/
