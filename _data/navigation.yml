@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "catalogue"
-    url: https://theeveningeconomies.github.io/catalogue/
+  - title: "releases"
+    url: https://theeveningeconomies.github.io/releases/
   - title: "artists"
     url: https://theeveningeconomies.github.io/artists/
   # - title: "About"
@@ -16,6 +16,6 @@ bands:
   - title: "spinsters"
     url: /pages/spinsters/
   - title: "ghostbird"
-    url: /pages/ghostbird/
+    url: /ghostbird/
   - title: "total victory"
-    url: /pages/total-victory/
+    url: /total-victory/
