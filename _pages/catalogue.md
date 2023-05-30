@@ -14,11 +14,11 @@ sidebar:
     text: "Some text here."
 ---
 
-discography of the label releases
+# discography of the label releases
 
-![ghostbird-missing-ep]({{ site.url }}{{ site.baseurl }}/assets/images/ghostbird-missing-ep.png){: .align-left} ghostbird - missing ep - nov 2018 eveecono018. debut ep from nottingham's ghostbird. 5 tracks of off-kilter lofi indie rock, fuzzy bass, distorted vocals, weird chords and eerie bits all meld together. listen/buy via ghostbirdband.bandcamp.com
+![ghostbird-missing-ep]({{ site.url }}{{ site.baseurl }}/assets/images/ghostbird-missing-ep.png){: .align-left} **ghostbird - missing ep - nov 2018 eveecono018.** debut ep from nottingham's ghostbird. 5 tracks of off-kilter lofi indie rock, fuzzy bass, distorted vocals, weird chords and eerie bits all meld together. listen/buy via ghostbirdband.bandcamp.com
 
-total victory - english martyrs - jun 2017. third longer player from total victory. less frenetic and more reflective than it's predecessors a new found confidence in personal lyrics and delicate melodies make this a special record. pressed to wax with now best friends specific and kerviniou, the vinyl is currently sold out if that sort of thing impresses you.
+![total victory - english martyrs]({{ site.url }}{{ site.baseurl }}/assets/images/tv-em.jpg){: .align-right} **total victory - english martyrs - jun 2017 eveecono017.** third longer player from total victory. less frenetic and more reflective than it's predecessors a new found confidence in personal lyrics and delicate melodies make this a special record. pressed to wax with now best friends specific and kerviniou, the vinyl is currently sold out if that sort of thing impresses you.
 
 total victory - vs. big electric - sep 2016. a compilation of the band's previous 2 limited run tour cd eps. the first collaboration with the metz based label specific recordings along with old friends kerviniou. there's a few copies of the vinyl left at bandcamp and dotted around the internet.
 

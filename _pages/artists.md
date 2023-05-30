@@ -6,8 +6,8 @@ categories:
 tags:
   - artists
 
-sidebar:
-  nav: "artists"
+#sidebar:
+#  nav: "artists"
   
 toc: true
 toc_label: "artists"
