@@ -13,7 +13,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
  
-bands:
+bands1:
   - title: Getting Started
     children:
       - title: "Quick-Start Guide"
@@ -24,3 +24,13 @@ bands:
         url: /docs/installation/
       - title: "Upgrading"
         url: /docs/upgrading/
+        
+artists:
+  - title: "spinsters"
+    url: /link-1-page-url/
+
+  - title: "ghostbird"
+    url: http://google.co.uk
+
+  - title: "total victory"
+    url: /total-victory/

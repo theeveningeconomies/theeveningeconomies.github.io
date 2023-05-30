@@ -5,8 +5,9 @@ categories:
   - artists
 tags:
   - artists
+
 sidebar:
-  nav: "bands"
+  nav: "artists"
   
 toc: true
 toc_label: "artists"
@@ -15,6 +16,9 @@ toc_icon: "music"
 
 artists on the label
 
-# spinsters
-# ghostbird
-# total victory
+# Heading
+## Heading
+### Heading
+### Heading
+# Heading
+## Heading
