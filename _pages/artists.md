@@ -16,9 +16,9 @@ toc_icon: "music"
 
 artists on the label
 
-# Heading
-## Heading
-### Heading
-### Heading
-# Heading
-## Heading
+# Heading 1
+## Heading 2
+### Heading 3
+### Heading 3
+# Heading 1
+## Heading 2
