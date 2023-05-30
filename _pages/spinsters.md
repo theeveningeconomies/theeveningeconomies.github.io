@@ -8,14 +8,16 @@ tags:
   - artists
   
 sidebar:
-  nav: "bands"
-sidebar:
-#  - title: "Title"
-    image: /assets/images/tee-image1.png
-    image_alt: "tee"
-#    text: "Some text here."
-#  - title: "Another Title"
-#    text: "More text here."
+  - title: Getting Started
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+      - title: "Structure"
+        url: /docs/structure/
+      - title: "Installation"
+        url: /docs/installation/
+      - title: "Upgrading"
+        url: /docs/upgrading/
 ---
 
 artists on the label
