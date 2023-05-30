@@ -16,7 +16,8 @@ sidebar:
 
 discography of the label releases
 
-eveecono018: ![ghostbird-missing-ep](imgages/ghostbird-missing-ep.png) ghostbird - missing ep - nov 2018. debut ep from nottingham's ghostbird. 5 tracks of off-kilter lofi indie rock, fuzzy bass, distorted vocals, weird chords and eerie bits all meld together. listen/buy via ghostbirdband.bandcamp.com
+# eveecono018: ![ghostbird-missing-ep](imgages/ghostbird-missing-ep.png) 
+![ghostbird-missing-ep]({{ site.url }}{{ site.baseurl }}/assets/images/ghostbird-missing-ep.png){: .align-left} ghostbird - missing ep - nov 2018 eveecono018. debut ep from nottingham's ghostbird. 5 tracks of off-kilter lofi indie rock, fuzzy bass, distorted vocals, weird chords and eerie bits all meld together. listen/buy via ghostbirdband.bandcamp.com
 
 total victory - english martyrs - jun 2017. third longer player from total victory. less frenetic and more reflective than it's predecessors a new found confidence in personal lyrics and delicate melodies make this a special record. pressed to wax with now best friends specific and kerviniou, the vinyl is currently sold out if that sort of thing impresses you.
 
