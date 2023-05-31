@@ -1,12 +1,15 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "releases"
+    url: /releases/
+  - title: "artists"
+    url: /artists/
+    
+#artists sidebar
+artists:
+  - title: "spinsters"
+    url: /link-1-page-url/
+  - title: "ghostbird"
+    url: http://google.co.uk
+  - title: "total victory"
+    url: /total-victory/
