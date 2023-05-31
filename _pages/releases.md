@@ -7,20 +7,27 @@ categories:
   - releases
 tags:
   - discography
+  - releases 
 sidebar:
   - title: "you have a right to be forgotten"
     image: /assets/images/tee-image1.png
     image_alt: "tee"
-    text: "Some text here."
 ---
-a history in hindsight...
+# a history in hindsight...
 
-you may laugh but 
-# discography of the label releases
+you may laugh but bolton had an incredible music scene from about 2005 to 2013. living in the shadow of manchester. post music industry collapse. pre streaming and social media domination. a hinterland. no documents exist of that time. 
 
-![ghostbird-missing-ep]({{ site.url }}{{ site.baseurl }}/assets/images/ghostbird-missing-ep.png){: .align-left} **ghostbird - missing ep - nov 2018 eveecono018.** debut ep from nottingham's ghostbird. 5 tracks of off-kilter lofi indie rock, fuzzy bass, distorted vocals, weird chords and eerie bits all meld together. listen/buy via ghostbirdband.bandcamp.com
+# label releases
 
-![total victory - english martyrs]({{ site.url }}{{ site.baseurl }}/assets/images/tv-em.jpg){: .align-right} **total victory - english martyrs - jun 2017 eveecono017.** third longer player from total victory. less frenetic and more reflective than it's predecessors a new found confidence in personal lyrics and delicate melodies make this a special record. pressed to wax with now best friends specific and kerviniou, the vinyl is currently sold out if that sort of thing impresses you.
+entire catalogue should be available on streaming sites (even the scummy one, you know which one). if not bandcamp links are in each post below.
+
+![spinsters - LSFTA - ep]({{ site.url }}{{ site.baseurl }}/assets/images/spinsters -lsfta.jpg){: .align-left} **spinsters - love songs from the apocalypse ep - june 2023 eveecono020.** debut ep from bolton 3 piece spinsters. they sound like portishead and low loosened up after a few drinks at a party dancing to set you free by n-trance.  [listen/buy via bandcamp](https://spinsters.bandcamp.com/)
+
+![ghostbird-sky-burial]({{ site.url }}{{ site.baseurl }}/assets/images/gh-sb.jpg){: .align-right} **ghostbird - sky burial - april 2020 eveecono019.** debut ep from nottingham's ghostbird. 5 tracks of off-kilter lofi indie rock, fuzzy bass, distorted vocals, weird chords and eerie bits all meld together. [listen/buy via bandcamp](https://ghostbirdband.bandcamp.com)
+
+![ghostbird-missing-ep]({{ site.url }}{{ site.baseurl }}/assets/images/ghostbird-missing-ep.png){: .align-left} **ghostbird - missing ep - nov 2018 eveecono018.** debut ep from nottingham's ghostbird. 5 tracks of off-kilter lofi indie rock, fuzzy bass, distorted vocals, weird chords and eerie bits all meld together. [listen/buy via bandcamp](https://ghostbirdband.bandcamp.com)
+
+![total victory - english martyrs]({{ site.url }}{{ site.baseurl }}/assets/images/tv-em.jpg){: .align-right} **total victory - english martyrs - jun 2017 eveecono017.** third longer player from total victory. less frenetic and more reflective than it's predecessors a new found confidence in personal lyrics and delicate melodies make this a special record. pressed to wax with now best friends specific and kerviniou, the vinyl is currently sold out if that sort of thing impresses you. [listen/buy via bandcamp](https://totalvictory.bandcamp.com/album/english-martyrs)
 
 total victory - vs. big electric - sep 2016. a compilation of the band's previous 2 limited run tour cd eps. the first collaboration with the metz based label specific recordings along with old friends kerviniou. there's a few copies of the vinyl left at bandcamp and dotted around the internet.
 
