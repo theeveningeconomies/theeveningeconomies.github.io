@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "releases"
-    url: /releases/
-  - title: "artists"
-    url: /artists/
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -12,25 +10,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
- 
-#bands1:
-#  - title: Getting Started
-#    children:
-#      - title: "Quick-Start Guide"
-#        url: /docs/quick-start-guide/
-#      - title: "Structure"
-#        url: /docs/structure/
-#      - title: "Installation"
-#        url: /docs/installation/
-#      - title: "Upgrading"
-#        url: /docs/upgrading/
-        
-artists:
-  - title: "spinsters"
-    url: /link-1-page-url/
-
-  - title: "ghostbird"
-    url: http://google.co.uk
-
-  - title: "total victory"
-    url: /total-victory/
